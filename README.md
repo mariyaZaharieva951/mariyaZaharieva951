@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi, I`m Mariya Zaharieva 👋
+
+- 🌱 I’m currently learning JavaScript at SoftUni
+- 📫 How to reach me: mariyazaharieva7@gmail.com
+
+
+
+
+
+
+
+
+
 
 <!--
 **mariyaZaharieva951/mariyaZaharieva951** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
