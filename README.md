@@ -6,11 +6,11 @@
 
 
 ### Languages and Tools:
-<p align="center">
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,express,firebase,html,js,mongodb,nodejs,postman,ts,vscode" />
   </a>
-</p>
+
 
 
 
