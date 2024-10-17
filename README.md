@@ -8,7 +8,7 @@
 ### Languages and Tools:
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,css,express,next.js,firebase,html,js,mongodb,nodejs,postman,ts,vscode,tailwind" />
+    <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,css,express,nextjs,firebase,html,js,mongodb,nodejs,postman,ts,vscode,tailwind" />
   </a>
 
 
